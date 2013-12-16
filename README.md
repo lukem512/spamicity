@@ -1,4 +1,4 @@
 spamicity
 =========
 
-A niave Baysian spam filter, written in Java
+A naive Baysian spam filter, written in Java
